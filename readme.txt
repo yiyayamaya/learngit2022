@@ -1,3 +1,10 @@
+public void 小伙伴(){
+    line 1;
+    line 2;
+    return 1;
+
+}
+
 init 
 
 本项目是一个很好的项目 由我编写而成
