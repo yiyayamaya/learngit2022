@@ -16,3 +16,7 @@ init
 在dev2上面的修改
 
 解决冲突了
+
+fuction yiyayamaya(){
+    return null;
+}
